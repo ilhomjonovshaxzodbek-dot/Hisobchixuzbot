@@ -30,7 +30,7 @@ from aiogram.types import (
 # SOZLAMALAR
 # ─────────────────────────────────────────────
 
-API_TOKEN = "8940392800:AAHFF1KugNpGL7fk600GAWiU-_fWaR0Qnsw"
+API_TOKEN = "8940392800:AAF_miNknsRMJFvkKLa21dsVuYTEUpU2Ncw"
 ADMIN_ID  = 8314283278
 DB_PATH   = "hisobchi.db"
 
